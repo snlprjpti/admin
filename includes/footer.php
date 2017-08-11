@@ -10,7 +10,6 @@
       <!-- Control Sidebar -->
      
     </div><!-- ./wrapper -->
-`
     <script src="./js/jQuery-2.1.4.min.js"></script>
     <!-- Bootstrap 3.3.5 -->
     <script src="./js/bootstrap.min.js"></script>
@@ -37,8 +36,6 @@
 });
 
         </script>
-        <!-- <script src="./js/alert.js"></script> -->
-        <!-- <script src="./js/sweet.js"></script> -->
 
   </body>
 </html>
